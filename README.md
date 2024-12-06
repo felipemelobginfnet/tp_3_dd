@@ -65,15 +65,10 @@ Token Hugging Face: Para usar o modelo de IA, você precisa de um token de acess
 Passos
 Clone o repositório ou baixe o código.
 Instale as dependências:
-bash
-Copiar código
 pip install -r requirements.txt
 Configure o Token Hugging Face: Obtenha o token no Hugging Face e insira-o no campo de configuração do Streamlit.
 Execute a aplicação:
-bash
-Copiar código
 streamlit run app.py
-Acesse o app em http://localhost:8501 e interaja com o assistente.
 Vantagens da Abordagem com IA
 Eficiência: O assistente responde rapidamente, sem a necessidade de intervenção humana.
 Precisão: A IA analisa as descrições dos problemas com base em uma base de conhecimento e oferece soluções adequadas.
